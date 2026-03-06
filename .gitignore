@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc.*
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Modelos treinados
+*.pkl
+*.joblib
+models/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Configurações locais
+.env
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
