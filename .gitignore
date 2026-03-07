@@ -12,7 +12,6 @@ env/
 ENV/
 
 # Modelos treinados
-*.pkl
 *.joblib
 
 # Jupyter Notebook
