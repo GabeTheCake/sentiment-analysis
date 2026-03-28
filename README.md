@@ -1,11 +1,6 @@
 # 💬 Análise de Sentimentos em Redes Sociais com NLP e Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)  
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange)  
-![NLP](https://img.shields.io/badge/NLP-TFIDF%20%7C%20Text%20Classification-purple)  
-![Streamlit](https://img.shields.io/badge/Streamlit-Interactive%20App-red)  
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)  ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange)  ![NLP](https://img.shields.io/badge/NLP-TFIDF%20%7C%20Text%20Classification-purple)  ![Streamlit](https://img.shields.io/badge/Streamlit-Interactive%20App-red)  ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 Projeto de **Processamento de Linguagem Natural (NLP)** focado em **classificação automática de sentimentos em textos curtos de redes sociais**.
 
